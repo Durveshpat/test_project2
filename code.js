@@ -20,7 +20,7 @@ let tail = {};
     webgl.phase = "wall";
 
     webgl.loader = new THREE.TextureLoader();
-    webgl.texture = webgl.loader.load('https://i.imgur.com/ZrnWXzF.png', setup); 
+    webgl.texture = webgl.loader.load('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcZ0Y7HkXbnctqFCrG-_4BMLnZM4QzThruyxKoj5Or4ln-3dZXJShkNn3AbzfwWp_2al_8aTeF52NrQF_02Kn0AnNqP-N8gEfSWrjKEfaf3-eU5y43wPkua4QG_yOkLOj_IB921518UYri-ABkRAtuPEAju6RB6SsxqDud1ij3DXDBBh1W4ejJ-mw_tQ/s320/ZrnWXzF.png'.png', setup); 
 })();
 
 
